@@ -139,6 +139,7 @@ Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
 
 ## 🧑‍💻 Tentang Saya
 Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
+
 📫 Terhubung dengan saya di:
 - Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
 - Github : https://github.com/arvio1378
