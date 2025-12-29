@@ -85,3 +85,10 @@ pip install -r requirements.txt
 python src/main.py
 ```
 4. Buka Gradio di browser
+
+## 📊 Dataset
+| image    | description      | display_name | category |
+|-------------|-------------|-------------|-------------|
+| 3238.jpg	| Round toed, black sports shoes with red accent...	| Puma Men Black 65CC Lo Ducati Sports Shoes	| Sports Shoes |
+| 43044.jpg	 | Style Note Built with the breathability and ze...	| Nike Men Charcoal Grey Shorts	| Shorts |
+| 54018.jpg	 | Teal  handbag that has stitch detailing with a...	| Kiara Women Teal Handbag	| Handbags |
