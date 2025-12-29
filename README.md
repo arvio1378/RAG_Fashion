@@ -106,7 +106,39 @@ Berikut ini adalah beberapa pertanyaan dan bagaimana model dapat menjawab pertan
 1. - Question : I want to buy something casual watches for a weekend outing for men.
    - Answer : Carrera Men Careera (1.26mm), a stylish and durable watch with a rugged texture, is perfect for casual outings.
 Q&Q Men Steel Dial Watch (1.48mm), known for its smooth finish and sleek design, is ideal for men's daily wear.
+2. - Question : Can you show me red shirts ?
+   - Answer : Product 1: Proline Men Red T-shirt - A classic and versatile t-shirt that is popular among men. It can be worn as a jacket, vest, or undergarment, making it suitable for both casual and formal occasions.
+Style: Classic red shirt.
+Usage: Ideal for working in offices or during business meetings where dress code is important. 
+Product 2: Proline Men Red Round Neck T-shirt - This t-shirt features a round neck design that adds some privacy to the shirt without sacrificing comfort. It's great for lounging, playing sports, or reading a book.
+Style: Round-necked red shirt.
+Usage: Perfect for working out at gymnasiums where wearing too much clothing can be distracting. 
+Product 3: Classic Polo Men's Red T-shirt - This t-shirt is a classic design that features large pockets and buttons around the neck, making it suitable for casual wear or any occasion.
+Style: Classic red polo shirt.
+Usage: Ideal for outdoor activities like hiking or camping where comfort matters.
 Titan Men White Dial Watch (2.05mm) offers an elegant and sophisticated appearance that complements any outfit.
 All three watches are made of high-quality steel materials, making them durable and long-lasting.
 Q&Q Men Steel Dial Watch is a great option for those who want to add a touch of sophistication to their casual watches while maintaining durability.
 Titan Men White Dial Watch features a sleek design with its black leather strap, making it suitable for men's daily wear.
+3. - Question : I want to buy some shoes for men
+   - Answer : Product 1 - ID Men Black Casual Shoes:
+Style: Casual 
+Usage: Suitable for daily wear or casual outings. Perfect for office wear, shopping trips, or any occasions where comfort is important.
+Product 2 - iD Men Casual Brown Shoe:
+Style: Casual
+Usage: Ideal for daytime activities like running, working out, or everyday life. Great for hiking or outdoor workouts in the afternoon.
+Product 3 - ADIDAS Men Black Shoes:
+Style: Casual 
+Usage: Perfect for casual wear occasions such as parties, weddings, or any social events. Suitable for various sports activities and casual outings where comfort is important.
+
+## 🏗️ Kontribusi
+Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
+- Menggunakan dataset yang lebih banyak dan kompleks
+- Mencoba dengan model LLM yang berbeda
+- Menyempurnakan desain dari gradio menjadi lebih bagus
+
+## 🧑‍💻 Tentang Saya
+Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
+📫 Terhubung dengan saya di:
+- Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
+- Github : https://github.com/arvio1378
