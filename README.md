@@ -87,10 +87,9 @@ python src/main.py
 4. Buka Gradio di browser
 
 ## 📊 Dataset
-This folder contains a pre-built FAISS index (88MB)
-generated from 44,441 images.
-Raw images are not included.
-Link dataset and images : https://www.kaggle.com/datasets/nirmalsankalana/fashion-product-text-images-dataset (Kaggle)
+- This folder contains a pre-built FAISS index (88MB) generated from 44,441 images.
+- Raw images are not included.
+- Link dataset and images : https://www.kaggle.com/datasets/nirmalsankalana/fashion-product-text-images-dataset (Kaggle)
 
 | image    | description      | display_name | category |
 |-------------|-------------|-------------|-------------|
