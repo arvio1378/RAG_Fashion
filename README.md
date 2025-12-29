@@ -58,3 +58,29 @@ Fashion RAG bekerja dengan alur berikut:
   - test.ipynb
   - requirements.txt
   - README.md
+
+## 🛠️ Workflow
+1. Load dataset
+2. Cleaning data
+3. Membuat dokumen dari csv
+4. Embedding : mengubah teks menjadi vektor angka
+5. Vector store : menyimpan hasil embedding ke vector database
+6. Retriever : mencari dari vector database hasil yang paling mirip untuk diambil
+7. LLM : Memproses jawaban dari konteks kemiripan dari retriever
+- Mengapa Tidak Menggunakan Chunking?
+Sistem ini tidak menggunakan chunking teks karena setiap entri data mewakili satu produk dengan gambarnya sendiri. Chunking biasanya diperlukan untuk dokumentasi yang panjang, sedangkan deskripsi produk sudah atomik dan lengkap secara semantik. Selain itu, CLIP membutuhkan keselarasan yang kuat antara teks dan gambar dan juga memisahkan teks menjadi beberapa bagian akan melemahkan hubungan multimodal ini dan mengurangi kualitas pengambilan data.
+
+## 🖥️ Cara Menjalankan Program
+1. Clone repositori
+```bash
+git clone https://github.com/arvio1378/Apple-QA-RAG.git
+cd Apple QA RA
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Jalankan Program
+```bash
+python src/main.py
+```
