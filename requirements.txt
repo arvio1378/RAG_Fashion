@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+faiss-cpu
+tqdm
+ollama
+langchain-core
+transformers
+pillow
+ipython
