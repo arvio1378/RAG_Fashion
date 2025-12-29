@@ -37,3 +37,28 @@ Fashion RAG bekerja dengan alur berikut:
 4. LLM Generation
 - LLM menghasilkan jawaban hanya berdasarkan data produk yang diberikan.
 5. Multimodal Output : Teks & Galeri gambar produk
+
+## 📁 Struktur Folder
+- FASHION RAG/
+  - data
+      - data.csv
+      - data
+          - 1.jpg
+          - 2.jpg
+          - 3.jpg
+  - index
+      - faiss_index.bin
+      - metadata.json
+  - src
+      - __init__.py
+      - data_loader.py
+      - embedder.py
+      - indexer.py
+      - llm.py
+      - rag.py
+      - retriever.py
+      - main.py
+  - build_index.py
+  - test.ipynb
+  - requirements.txt
+  - README.md
