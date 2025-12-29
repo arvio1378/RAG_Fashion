@@ -29,12 +29,11 @@ Fashion RAG (Retrieval-Augmented Generation) adalah proyek AI/ML yang menggabung
 ## 📦 Konsep Utama
 Fashion RAG bekerja dengan alur berikut:
 1. User Query
-Pengguna memasukkan pertanyaan, misalnya:
-"Can you show me a yellow gloves?"
+- Pengguna memasukkan pertanyaan, misalnya: "Can you show me a yellow gloves?"
 2. Retriever
-Sistem mencari produk paling relevan dari dataset fashion (metadata + embedding).
+- Sistem mencari produk paling relevan dari dataset fashion (metadata + embedding).
 3. Context Injection
-Informasi produk yang ditemukan diberikan ke LLM sebagai context.
+- Informasi produk yang ditemukan diberikan ke LLM sebagai context.
 4. LLM Generation
-LLM menghasilkan jawaban hanya berdasarkan data produk yang diberikan.
+- LLM menghasilkan jawaban hanya berdasarkan data produk yang diberikan.
 5. Multimodal Output : Teks & Galeri gambar produk
