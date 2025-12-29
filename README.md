@@ -92,3 +92,21 @@ python src/main.py
 | 3238.jpg	| Round toed, black sports shoes with red accent...	| Puma Men Black 65CC Lo Ducati Sports Shoes	| Sports Shoes |
 | 43044.jpg	 | Style Note Built with the breathability and ze...	| Nike Men Charcoal Grey Shorts	| Shorts |
 | 54018.jpg	 | Teal  handbag that has stitch detailing with a...	| Kiara Women Teal Handbag	| Handbags |
+
+## 🧪 Aturan LLM
+Berikut ini adalah aturan LLM yang digunakan :
+- Hanya merekomendasikan 3 produk yang berkaitan
+- Tidak mengarang tentang produknya
+- Hanya merekomendasikan produk yang sesuai query
+- Hanya menggunakan data yang diberikan
+- Menjelaskan secara singkat dari produk yang berkaitan
+
+## 📈 Hasil
+Berikut ini adalah beberapa pertanyaan dan bagaimana model dapat menjawab pertanyaan tersebut.
+1. - Question : I want to buy something casual watches for a weekend outing for men.
+   - Answer : Carrera Men Careera (1.26mm), a stylish and durable watch with a rugged texture, is perfect for casual outings.
+Q&Q Men Steel Dial Watch (1.48mm), known for its smooth finish and sleek design, is ideal for men's daily wear.
+Titan Men White Dial Watch (2.05mm) offers an elegant and sophisticated appearance that complements any outfit.
+All three watches are made of high-quality steel materials, making them durable and long-lasting.
+Q&Q Men Steel Dial Watch is a great option for those who want to add a touch of sophistication to their casual watches while maintaining durability.
+Titan Men White Dial Watch features a sleek design with its black leather strap, making it suitable for men's daily wear.
