@@ -92,6 +92,10 @@ python src/main.py
 | 3238.jpg	| Round toed, black sports shoes with red accent...	| Puma Men Black 65CC Lo Ducati Sports Shoes	| Sports Shoes |
 | 43044.jpg	 | Style Note Built with the breathability and ze...	| Nike Men Charcoal Grey Shorts	| Shorts |
 | 54018.jpg	 | Teal  handbag that has stitch detailing with a...	| Kiara Women Teal Handbag	| Handbags |
+This folder contains a pre-built FAISS index (88MB)
+generated from 44,441 images.
+Raw images are not included.
+Link dataset and images : https://www.kaggle.com/datasets/nirmalsankalana/fashion-product-text-images-dataset (Kaggle)
 
 ## 🧪 Aturan LLM
 Berikut ini adalah aturan LLM yang digunakan :
