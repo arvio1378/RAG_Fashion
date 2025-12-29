@@ -73,8 +73,8 @@ Sistem ini tidak menggunakan chunking teks karena setiap entri data mewakili sat
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
 ```bash
-git clone https://github.com/arvio1378/Apple-QA-RAG.git
-cd Apple QA RA
+git clone https://github.com/arvio1378/RAG_Fashion.git
+cd RAG_Fashion
 ```
 2. Install dependencies
 ```bash
@@ -84,3 +84,4 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
+4. Buka Gradio di browser
