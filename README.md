@@ -8,7 +8,6 @@ Fashion RAG (Retrieval-Augmented Generation) adalah proyek AI/ML yang menggabung
 - Menjawab pertanyaan seputar produk Fashion
 - Antarmuka sederhana menggunakan Gradio
 - Multimodal output (teks + gambar)
-- Fast inference (optimized loading & caching)
 
 ## 🧠 Tools & Library
 - Python
