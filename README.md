@@ -22,7 +22,7 @@ Fashion RAG (Retrieval-Augmented Generation) adalah proyek AI/ML yang menggabung
 - faiss
 - Gradio
 - Torch
-- LLM Model : qwen2.5:0.5b
+- LLM Model : Qwen/Qwen2.5-0.5B
 - Embedding Model : laion/CLIP-ViT-B-32-laion2B-s34B-b79K
 
 ## 📦 Konsep Utama
